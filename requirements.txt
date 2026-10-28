@@ -1,0 +1,7 @@
+# Versions available in the original research environment; Python 3.11 recommended.
+# Install the appropriate CPU/CUDA torch build for your machine.
+torch==2.5.1
+numpy==2.3.5
+scipy==1.17.1
+scikit-learn==1.9.1
+threadpoolctl

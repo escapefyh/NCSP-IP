@@ -1,0 +1,115 @@
+{
+  "note": "Algorithm definitions extracted from local research sources; imports and file orchestration made portable. Source paths intentionally omitted.",
+  "sources": [
+    {
+      "source": "historical_latest.py",
+      "source_sha256": "a3041e21c3691c280d178fa3903018c86e5d60157f951cf473fadd42bd47e481",
+      "extracted": [
+        "Branch"
+      ],
+      "constants": []
+    },
+    {
+      "source": "prepare_trna_data.py",
+      "source_sha256": "b8a2257f5762ba7cc036f9e2d36ac076890ce8b9043010b77c0db5fb5c404abc",
+      "extracted": [
+        "name_info"
+      ],
+      "constants": [
+        "KINDS",
+        "AMINO_ACIDS",
+        "TRIPLETS"
+      ]
+    },
+    {
+      "source": "run_relation_learning.py",
+      "source_sha256": "b97bf2aef4554bb565383fa1fdcf9221eb9cf20878eb10940782261ea501bfdb",
+      "extracted": [
+        "annotation"
+      ],
+      "constants": []
+    },
+    {
+      "source": "experiment.py",
+      "source_sha256": "0404c4a8724eec0f4e7b679419310dde63565471857a2c85584e87393d45e794",
+      "extracted": [
+        "vectorize"
+      ],
+      "constants": []
+    },
+    {
+      "source": "run_name_graph_attribution.py",
+      "source_sha256": "3b7ad2326f8aa885b4d20ca024136a832d6993aad2a2e26bd6fca330b9c1c1bd",
+      "extracted": [
+        "Net"
+      ],
+      "constants": []
+    },
+    {
+      "source": "graph_topology_experiment.py",
+      "source_sha256": "8d4e20776c397331ca2086c74c2e186715cf2b4b837ef1730bb8d055b322fd32",
+      "extracted": [
+        "normalized",
+        "rebuild"
+      ],
+      "constants": []
+    },
+    {
+      "source": "experiment.py",
+      "source_sha256": "13af3b8df724f658b23c7c1ad112bc00752be76c8bd01c19c7cbe5907a7cd198",
+      "extracted": [
+        "relation_loss",
+        "numpy_relation",
+        "encoder",
+        "fit"
+      ],
+      "constants": []
+    },
+    {
+      "source": "experiment.py",
+      "source_sha256": "e6cf73fb6121b7f526151563e65860646b5ca8f9547fd1bd3f934869ede00e95",
+      "extracted": [
+        "neighbors",
+        "row_normal",
+        "masked_context",
+        "completion_rebuild",
+        "completion"
+      ],
+      "constants": []
+    },
+    {
+      "source": "run_order_constrained_graph_fusion.py",
+      "source_sha256": "a177b62d1e5e728a02c9c11d8019034d3f594c505688095b8fa4370186f2ced0",
+      "extracted": [
+        "pava_decreasing",
+        "project"
+      ],
+      "constants": []
+    },
+    {
+      "source": "experiment.py",
+      "source_sha256": "d88c73e470f21b1d4f03635aea05fcdf10b3084b4c54c00ea768354f6104bf65",
+      "extracted": [
+        "fit"
+      ],
+      "constants": []
+    },
+    {
+      "source": "experiment.py",
+      "source_sha256": "5461470e6562e63032abc9000a698ec2b95a2891bfc935d291cf0980a9270806",
+      "extracted": [
+        "split_indices",
+        "unknown_pairs"
+      ],
+      "constants": []
+    },
+    {
+      "source": "historical_latest.py",
+      "source_sha256": "a3041e21c3691c280d178fa3903018c86e5d60157f951cf473fadd42bd47e481",
+      "extracted": [
+        "sampled_metrics"
+      ],
+      "constants": []
+    }
+  ]
+}

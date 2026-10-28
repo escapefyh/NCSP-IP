@@ -1,0 +1,36 @@
+# Local inputs, biological datasets, checkpoints and generated predictions
+data/
+outputs/
+*.pt
+*.pth
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.joblib
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.zip
+*.log
+# Credentials and workstation state
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+.aws/
+.codex/
+.agents/
+.idea/
+.vscode/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
